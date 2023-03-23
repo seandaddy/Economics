@@ -1,5 +1,4 @@
-from scipy import optimize,arange
-from numpy import array
+from scipy import optimize
 
 def demand(q1,q2):
      return 1-b1*q1-b2*q2
